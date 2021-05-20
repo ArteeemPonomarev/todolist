@@ -6,7 +6,7 @@ import {action} from "@storybook/addon-actions";
 
 
 export default  {
-    title: 'Example/AddItemForm',
+    title: 'Todolist/AddItemForm',
     component: AddItemForm
 } as Meta;
 
